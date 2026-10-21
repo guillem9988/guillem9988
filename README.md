@@ -11,7 +11,7 @@ I like building complete products: backend, frontend, deployment and the boring 
 | Project | What it is | Stack |
 |---|---|---|
 | [**AfterSplit**](https://aftersplit.app) | Personal and shared expense tracker with group settlements and a native iPhone app. Born from my exchange in Hong Kong. | Python · FastAPI · PostgreSQL · Swift · Docker |
-| [**Evenbooks**](https://evenbooks.app) · [code](https://github.com/guillem9988/evenbooks) | Open-source invoicing and bookkeeping for freelancers in Spain: invoices, OCR expense capture, bank reconciliation, quarterly tax previews. | TypeScript · Next.js · Fastify · Prisma · PostgreSQL · Redis |
+| [**Evenbooks**](https://evenbooks.app) · [code](https://github.com/guillem9988/evenbooks_) | Open-source invoicing and bookkeeping for freelancers in Spain: invoices, OCR expense capture, bank reconciliation, quarterly tax previews. | TypeScript · Next.js · Fastify · Prisma · PostgreSQL · Redis |
 
 ### Other projects
 
